@@ -1,0 +1,11 @@
+java database connectivity and 
+Data retrival from table name vikesh
+
+info of table
+
+SQL> desc vikesh;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ EMPID                                              NUMBER(38)
+ EMPNAME                                            VARCHAR2(15)
+ EMPSAL                                             NUMBER(38)
